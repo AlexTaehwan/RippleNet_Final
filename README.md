@@ -9,11 +9,11 @@
 
 ## Run the main function
 
-amazon-book : /src, python main.py --amazon-book
+amazon-book : /src, python main.py --amazon-book --n_epoch 20
 
-last-fm : /src, python main.py --last-fm
+last-fm : /src, python main.py --last-fm --n_epoch 20
 
-yelp2018 : /src, python main.py --yelp2018
+yelp2018 : /src, python main.py --yelp2018 --n_epoch 20
 
 
 ### all the environment settings are saved in requirements.txt
