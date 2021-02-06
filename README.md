@@ -10,6 +10,8 @@
 ## Run the main function
 
 amazon-book : /src, python main.py --amazon-book
+
 last-fm : /src, python main.py --last-fm
+
 yelp2018 : /src, python main.py --yelp2018
 
