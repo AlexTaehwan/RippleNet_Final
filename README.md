@@ -1,6 +1,3 @@
-# RippleNet_Final
-# How to RUN
-
 ## Data Preprocessing
 1. data/amazon-book, unzip kg_final.txt.zip
 2. data/last-fm, unzip kg_final.txt.zip
