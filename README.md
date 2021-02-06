@@ -15,3 +15,5 @@ last-fm : /src, python main.py --last-fm
 
 yelp2018 : /src, python main.py --yelp2018
 
+
+### all the environment settings are saved in requirements.txt
